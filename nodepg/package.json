@@ -1,0 +1,23 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "catacutan-prob1": "catacutan-prob1.js",
+    "catacutan-prob2": "catacutan-prob2.js",
+    "catacutan-prob3": "catacutan-prob3.js",
+    "catacutan-prob4": "catacutan-prob4.js",
+    "catacutan-prob5": "catacutan-prob5.js",
+    "catacutan-prob6": "catacutan-prob6.js",
+    "catacutan-prob7": "catacutan-prob7.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
